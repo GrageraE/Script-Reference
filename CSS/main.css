@@ -4,3 +4,9 @@ h1{
 .padding-10{
     padding: 10px;
 }
+input{
+    border: none;
+}
+a{
+    color: black;
+}

@@ -4,9 +4,28 @@ h1{
 .padding-10{
     padding: 10px;
 }
+.padding-20{
+    padding: 20px;
+}
 input{
     border: none;
 }
 a{
     color: black;
+}
+body{
+    background-color: black;
+    color: white;
+}
+html{
+    background-color: black;
+    color: white;
+}
+div{
+    background-color: black;
+    color: white;
+}
+article{
+    background-color: black;
+    color: white;
 }

@@ -1,31 +1,40 @@
+/*Direct Instructions*/
 h1{
-    padding: 10px;
-}
-.padding-10{
-    padding: 10px;
-}
-.padding-20{
-    padding: 20px;
-}
-input{
-    border: none;
-}
-a{
-    color: black;
+    font-family: 'Roboto Thin', sans-serif;
 }
 body{
-    background-color: black;
-    color: white;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255)
 }
-html{
-    background-color: black;
-    color: white;
+a{
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
 }
-div{
-    background-color: black;
-    color: white;
+a:hover{
+    color: rgb(155, 0, 0);
 }
-article{
-    background-color: black;
-    color: white;
+ul{
+    display: inline;
+}
+
+/*Custom Styles*/
+
+.Big-Font{
+    font-size: 3em;
+}
+.Medium-Font{
+    font-size: 2em;
+}
+.Mini-Font{
+    font-size: 1em;
+}
+
+/*Fonts*/
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+.Roboto{
+    font-family: 'Roboto', sans-serif;
+}
+.Roboto-Thin{
+    font-family: 'Roboto Thin', sans-serif;
 }

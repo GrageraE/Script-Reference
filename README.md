@@ -1,6 +1,7 @@
-# Script-Reference
-<p>On this website you can see the "scripting API" like the unity scripting API but this is a universal scripting API for all the programing languages.</p>
+# [Script Reference](https://cosmoxdd.github.io/Script-Reference/)
 
-<h2>Check the website:</h2>
-https://cosmodx.github.io/Script-Reference/
+This website is very similar to: [Unity C# Scripting API](https://docs.unity3d.com/ScriptReference/) or [Cplusplus Reference](http://www.cplusplus.com/reference/).
 
+# Why?
+
+I'm creating this because is very useful build an application with information like functions or examples.

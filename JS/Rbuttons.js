@@ -13,6 +13,6 @@ function redirectToGithub()
 
 function helpProject()
 {
-    var redirectLink = "https://github.com/CosmoXDD/Script-Reference/help.html";
+    var redirectLink = "https://cosmoxdd.github.io/Script-Reference/help.html";
     window.location.href = redirectLink;
 }

@@ -1,5 +1,7 @@
 # [Script Reference](https://cosmoxdd.github.io/Script-Reference/)
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J417QAK)
+
 This website is very similar to: [Unity C# Scripting API](https://docs.unity3d.com/ScriptReference/) or [Cplusplus Reference](http://www.cplusplus.com/reference/).
 
 # Why?

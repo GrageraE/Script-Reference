@@ -19,7 +19,7 @@ function helpProject()
 
 function linkToCppRef()
 {
-    let link = "CPP/cpp.html";
+    let link = "CPP/index.html";
     window.location.href = link;
 }
 

@@ -1,7 +1,7 @@
 //Redirect Buttons
 function redirectToMain()
 {
-    var redirectLink = "https://cosmoxdd.github.io/Script-Reference/";
+    var redirectLink = "./index.html";
     window.location.href = redirectLink;
 }
 
@@ -13,6 +13,18 @@ function redirectToGithub()
 
 function helpProject()
 {
-    var redirectLink = "https://cosmoxdd.github.io/Script-Reference/help.html";
+    var redirectLink = "./help.html";
     window.location.href = redirectLink;
+}
+
+function linkToCppRef()
+{
+    let link = "CPP/cpp.html";
+    window.location.href = link;
+}
+
+function linkToKtRef()
+{
+    let link = "Kotlin/kt.html";
+    window.location.href = link;
 }

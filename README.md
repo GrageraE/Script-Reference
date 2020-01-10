@@ -1,4 +1,4 @@
-# [Script Reference](https://cosmoxdd.github.io/Script-Reference/)
+# [Script Reference](https://gragerae.github.io/Script-Reference/)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J417QAK)
 
